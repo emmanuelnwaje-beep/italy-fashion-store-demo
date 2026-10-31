@@ -6,7 +6,7 @@
   2. Replace the demo shop name in index.html / page title when the owner chooses a brand.
 */
 const STORE_CONFIG = {
-  whatsappNumber: "393XXXXXXXXX",
+  whatsappNumber: "39353 392 2461",
   storeName: "ATELIER N°7",
   currency: "EUR",
   locale: "it-IT"
